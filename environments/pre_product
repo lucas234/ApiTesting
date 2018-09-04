@@ -1,4 +1,4 @@
-base_url: http://121.41.30.64:8888
+base_url: http://xxxxxx
 
 default_header:
     apikey: "anon_viphrm_com"

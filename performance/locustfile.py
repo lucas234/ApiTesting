@@ -118,8 +118,8 @@ class WebSiteTask(TaskSet):
 
 class WebSiteUser(HttpLocust):
     task_set = WebSiteTask
-    host = "http://121.41.30.64:8888"
-    # enterprise_host = "http://121.40.94.182:8000" # 企业活动域名
+    host = "XXXXX"
+    # enterprise_host = "XXXXXX" # 企业活动域名
     # user_data_queue = Queue.Queue()
     # count = []
     # for i, data in enumerate(id_lists):

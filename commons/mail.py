@@ -7,11 +7,11 @@ from email.mime.text import MIMEText
 def send_mail(sub, content):
     #############
     # 要发给谁，这里发给1个人
-    mailto_list = ["245557472@qq.com"]
+    mailto_list = ["xxxxxx@qq.com"]
     #####################
     # 设置服务器，用户名、口令以及邮箱的后缀
     mail_host = "smtp.163.com"
-    mail_user = "ly_liubo@163.com"
+    mail_user = "xxxx@163.com"
     mail_pass = "xxxxxxxxx"
     mail_postfix = "163.com"
     ######################

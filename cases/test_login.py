@@ -12,7 +12,7 @@ class MyTestCase(unittest.TestCase):
 
     def test_something(self):
         r = self.account_api.login("15566778800", "123456")
-        self.assertEqual(r['userId'], "152352471")
+        self.assertEqual(r['userId'], "XXXX")
 
     def tearDown(self):
         pass

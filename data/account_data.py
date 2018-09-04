@@ -7,7 +7,7 @@ class AccountData():
 
     # ------------------------------------------------
     # 登录接口
-    LOGIN = '/account/pwd'
+    LOGIN = 'xxxxxx'
     LOGIN_PARAMS ={
         "phone": "",
         "pwd": ""
