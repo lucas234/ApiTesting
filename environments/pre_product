@@ -1,0 +1,10 @@
+base_url: http://121.41.30.64:8888
+
+default_header:
+    apikey: "anon_viphrm_com"
+    content-type: "application/json; charset=UTF-8"
+    devicetoken: "a61dc05ebd9b8b61"
+    devicetype: "0"
+    location: "121.428572,31.228383"
+    sign: "092e61e09a2e13c8b95fec2a432b656e"
+    timestamp: "1534744335803"

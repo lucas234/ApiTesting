@@ -1,0 +1,28 @@
+2018-08-27 16:41:43,403 [INFO] test_env.py line:16: ### Request start###
+2018-08-27 16:41:43,403 [INFO] test_env.py line:17: Method:POST, URL:http://121.41.30.64:8888/account/pwd
+2018-08-27 16:41:43,404 [INFO] test_env.py line:19: Header:{'Content-Length': '59', 'apikey': 'anon_viphrm_com', 'Accept-Encoding': 'gzip, deflate', 'timestamp': '1535359302000', 'Accept': '*/*', 'User-Agent': 'python-requests/2.19.1', 'Connection': 'keep-alive', 'devicetype': '0', 'location': '121.428572,31.228383', 'sign': '8eff8b2dc9971c72846f9949541cb5cc', 'content-type': 'application/json; charset=UTF-8', 'devicetoken': 'a61dc05ebd9b8b61'}
+2018-08-27 16:41:43,404 [INFO] test_env.py line:20: Body:{"phone": "15566778800", "pwd": "n7RgQYHht3yb/E10SmvgNQ=="}
+2018-08-27 16:41:43,404 [INFO] test_env.py line:21: ### Response ###
+2018-08-27 16:41:43,404 [INFO] test_env.py line:22: Status:200
+2018-08-27 16:41:43,405 [INFO] test_env.py line:23: Header:{'Transfer-Encoding': 'chunked', 'Date': 'Mon, 27 Aug 2018 08:42:02 GMT', 'Content-Type': 'application/json;charset=UTF-8', 'Server': 'Apache-Coyote/1.1'}
+2018-08-27 16:41:43,407 [INFO] test_env.py line:24: Body:{
+  "userId" : "152352471",
+  "openId" : "baa46b199e5cf9811a53ab89eaca3c9f",
+  "phone" : "15566778800",
+  "email" : "peiqi@56.com",
+  "realName" : "佩奇",
+  "nickName" : "",
+  "avatar" : "",
+  "apiKey" : "baa46b199e5cf9811a53ab89eaca3c9f",
+  "apiSecurity" : "OWNiMzA4NmY4MzhjNDgzYWJhM2U4NDk4NDgyMGY3M2RlMGU2MzlmYmM2NzM0NzNmYjgwMDAyOTIzOTE2ZTgxZTQ4M2Y4Zjg0Zjg1NTRhZDQ4OTI1NTcwMTEyN2Q0OWQzNDk4MjRkYjFiMDRiNDk3YjhkOWE4MzViYjYwYjE1Yjk=",
+  "timeout" : 2592000000,
+  "refreshToken" : "e04b06904a3f4266953a060921bd5f98",
+  "companyId" : "252349469",
+  "companyName" : "改签数据专用公司",
+  "companyLogo" : "",
+  "isAuthRealName" : "0",
+  "hasPayPwd" : "0",
+  "statusFlag" : "1",
+  "certNo" : "579981693534505"
+}
+2018-08-27 16:41:43,407 [INFO] test_env.py line:25: ### Request end###
