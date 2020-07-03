@@ -1,9 +1,7 @@
 ### Dependency libraries
 
 ```python
-  pip install requests
-  pip install pyyaml
-  pip intsall locustio
+  pip install -r requirements.txt
 ```
 
 ### How to run on linux
