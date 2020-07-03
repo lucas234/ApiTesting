@@ -1,11 +1,13 @@
-## Dependency libraries
+### Dependency libraries
 
-```
-pip install requests
-pip install pyyaml
-pip intsall locustio
+```python
+  pip install requests
+  pip install pyyaml
+  pip intsall locustio
 ```
 
-## How to run on linux
-python run.py
-python run.py -p pattern
+### How to run on linux
+```
+  python run.py
+  python run.py -p pattern
+```
